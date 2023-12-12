@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "ReactNative POC",
+    "description": "React Native - Material Kit Free",
+    "slug": "ReactNative-POC",
+    "privacy": "unlisted",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#6C24AA"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e989b7a6-bf4f-4837-8b9e-e0fb7235437c"
+      }
+    }
+  }
+}
